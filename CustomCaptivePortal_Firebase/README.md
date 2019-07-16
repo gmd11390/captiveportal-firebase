@@ -21,7 +21,7 @@ http://YourAppName.firebaseapp.com/?base_grant_url=https%3A%2F%2Fn143.network-au
 ## Installation
 * Clone this repo and change into the directory
 ```
-$ git clone https://github.com/dexterlabora/MerakiCaptivePortal-firebaseDB.git
+$ git clone https://github.com/gmd11390/captiveportal-firebase.git
 ```
 * Update your Firebase Config settings in `./js/MerakiFirebase.js`. This information is found in your Google Firebase Console.
 ```
